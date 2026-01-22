@@ -1,3 +1,5 @@
 # PhD-Terminal
+
 Kişisel Finansal Analiz ve Değerleme Terminali (Streamlit &amp; Python)
+
 Bu proje aktif geliştirme aşamasındadır...
